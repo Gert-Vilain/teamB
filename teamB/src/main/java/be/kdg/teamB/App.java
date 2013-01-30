@@ -6,8 +6,9 @@ package be.kdg.teamB;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello Worl" );
+    public static void main( String[] args ){
+
+        System.out.println( "Hello Test" );
+
     }
 }
